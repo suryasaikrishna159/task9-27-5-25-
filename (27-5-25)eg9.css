@@ -1,0 +1,24 @@
+.outer{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    margin: 20px;
+    box-shadow: 5px 5px 2px rgb(143, 139, 139);
+    border-bottom: 2px solid gold;
+}
+.inner{
+    height: 30px;
+    width: 300px;
+    border-right: 1px solid white;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+
+}
+body{
+    background-color: antiquewhite;
+}
